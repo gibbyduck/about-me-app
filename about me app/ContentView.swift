@@ -26,6 +26,7 @@ HStack(spacing:235){
 
                 }
             
+       Text("hey baba girlll")
             
 Image("blue gorl")
                 .resizable()
